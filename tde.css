@@ -1,0 +1,41 @@
+body {
+margin: 3em 3em 3em 8em;
+color: black;
+background-color: #ffeeee
+}
+.summary{
+  margin:0em 1em 2em 8em;
+  background: #f5f5f5;
+  padding: 0.5em;
+    border-style:solid; border-width:1px; border-color:#333333; 
+}
+
+.more{
+  margin:0em 1em 2em 14em;
+  background: #ffffff;
+  padding: 0.5em;
+}
+
+.mokuji{
+  margin:0em 4em 3em 4em;
+  background: #dddddd;
+  padding: 1em;
+  border-style:solid; border-width:1px; border-color:#333333; 
+}
+
+.topic{
+  margin:2em 2em;
+ background: #eedddd;
+  padding: 0.5em;
+}
+
+.message{
+  margin: 2em 7em;
+  background: #fefefe;
+  padding: 1em;
+}
+.message2{
+  margin: 2em 7em;
+  background: #ffeeee;
+  padding: 1em;
+}
